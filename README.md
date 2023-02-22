@@ -1,4 +1,3 @@
-# cw73rRud
 Quick start:
 
 ```
